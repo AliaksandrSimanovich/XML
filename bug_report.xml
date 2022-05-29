@@ -14,7 +14,7 @@
       <str7>Enter username in Username ... .gmail.com input field</str7>
       <str8>Enter password in Password input field (Use 8 or more characters with a mix of letters, numbers and symbols)</str8>
       <str9>Confirm password in Confirm input field</str9>
-      <str10>Click on Next button</10>
+      <str10>Click on Next button</str10>
     </str>
     <actual_result>Registration of new user from Create your Google account page returns to Homepage google.com</actual_result>
     <expected_result>Registration of new user from Create your Google account page ends successfully</expected_result>
