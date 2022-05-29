@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<body>
+	<favorite_film>no_film</favorite_film>
+	<favorite_series>no_series</favorite_series>
+	<favorite_food>no_food</favorite_food>
+	<favorite_season>summer</favorite_season>
+	<favorite_country>UK</favorite_country>
+</body>
