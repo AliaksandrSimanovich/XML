@@ -5,16 +5,16 @@
     <severity>critical</severity>
     <environment>Windows 10, Browser: Google Chrome Version 94.0.4606.81 (Official Build) (64-bit)</environment>
     <str>
-      <1>Open Homepage: google.com</1>
-      <2>Click on link Sign in</2>
-      <3>Click on Create account</3>
-      <4>Choose For myself item</4>
-      <5>Enter first name in First name input field</5>
-      <6>Enter last name in Last name input field</6>
-      <7>Enter username in Username ... .gmail.com input field</7>
-      <8>Enter password in Password input field (Use 8 or more characters with a mix of letters, numbers and symbols)</8>
-      <9>Confirm password in Confirm input field</9>
-      <10>Click on Next button</10>
+      <str1>Open Homepage: google.com</str1>
+      <str2>Click on link Sign in</str2>
+      <str3>Click on Create account</str3>
+      <str4>Choose For myself item</str4>
+      <str5>Enter first name in First name input field</str5>
+      <str6>Enter last name in Last name input field</str6>
+      <str7>Enter username in Username ... .gmail.com input field</str7>
+      <str8>Enter password in Password input field (Use 8 or more characters with a mix of letters, numbers and symbols)</str8>
+      <str9>Confirm password in Confirm input field</str9>
+      <str10>Click on Next button</10>
     </str>
     <actual_result>Registration of new user from Create your Google account page returns to Homepage google.com</actual_result>
     <expected_result>Registration of new user from Create your Google account page ends successfully</expected_result>
